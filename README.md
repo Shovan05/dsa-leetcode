@@ -11,8 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shovan05/dsa-leetcode/tree/master/0014-longest-common-prefix) |
+| [0290-word-pattern](https://github.com/Shovan05/dsa-leetcode/tree/master/0290-word-pattern) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shovan05/dsa-leetcode/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/Shovan05/dsa-leetcode/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
