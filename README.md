@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shovan05/dsa-leetcode/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/Shovan05/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Shovan05/dsa-leetcode/tree/master/0290-word-pattern) |
 ## Trie
 |  |
@@ -23,9 +24,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shovan05/dsa-leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Shovan05/dsa-leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shovan05/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Shovan05/dsa-leetcode/tree/master/0290-word-pattern) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Shovan05/dsa-leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shovan05/dsa-leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
