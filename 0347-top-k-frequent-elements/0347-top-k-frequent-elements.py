@@ -7,6 +7,7 @@ class Solution(object):
         """
         seen={}
         ans=[]
+        flag=False
         for i in nums:
             if i in seen:
                 seen[i]+=1
@@ -18,10 +19,13 @@ class Solution(object):
         
 
         for index in range(len(bucket)-1, 0, -1):
+            if flag:
+                break
             for num in bucket[index]:       
                 if k!=0:
                     ans.append(num)
                     k-=1
                 else:
+                    flag=True
                     break
         return ans     
