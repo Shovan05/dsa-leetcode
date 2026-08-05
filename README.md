@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shovan05/dsa-leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Shovan05/dsa-leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Shovan05/dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shovan05/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Shovan05/dsa-leetcode/tree/master/0290-word-pattern) |
 ## Trie
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shovan05/dsa-leetcode/tree/master/0036-valid-sudoku) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Shovan05/dsa-leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
