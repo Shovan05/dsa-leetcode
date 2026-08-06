@@ -10,15 +10,10 @@ class Solution(object):
         while left<right:
             if ((right-left)*min(height[left],height[right]))>max_area:
                 max_area=(right-left)*min(height[left],height[right])
-                if height[left]<height[right]:
-                    left+=1
-                else:
-                    right-=1
+            if height[left]<height[right]:
+                left+=1
             else:
-                if height[left]<height[right]:
-                    left+=1
-                else:
-                    right-=1
+                right-=1
         return max_area
 
 
