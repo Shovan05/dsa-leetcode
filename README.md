@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shovan05/dsa-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shovan05/dsa-leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shovan05/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Shovan05/dsa-leetcode/tree/master/0278-first-bad-version) |
 ## Greedy
 |  |
 | ------- |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shovan05/dsa-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shovan05/dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Shovan05/dsa-leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
