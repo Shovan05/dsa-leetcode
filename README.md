@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shovan05/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Shovan05/dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shovan05/dsa-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Shovan05/dsa-leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shovan05/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shovan05/dsa-leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Shovan05/dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shovan05/dsa-leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shovan05/dsa-leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Shovan05/dsa-leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Shovan05/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shovan05/dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shovan05/dsa-leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Shovan05/dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shovan05/dsa-leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shovan05/dsa-leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shovan05/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shovan05/dsa-leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Shovan05/dsa-leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shovan05/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Shovan05/dsa-leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Shovan05/dsa-leetcode/tree/master/0278-first-bad-version) |
 ## Greedy
 |  |
@@ -128,8 +132,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shovan05/dsa-leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Shovan05/dsa-leetcode/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shovan05/dsa-leetcode/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shovan05/dsa-leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
