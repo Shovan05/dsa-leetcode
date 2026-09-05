@@ -21,8 +21,7 @@ class Solution(object):
             if dq[0] <= i - k:
                 dq.popleft()
 
-            # Step 4: once window has size k, record the max
-            if i >= k - 1:
+            # Step 4: once window has sizek, record the max
+            if i>=k-1:
                 ans.append(nums[dq[0]])
-
         return ans
