@@ -164,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shovan05/dsa-leetcode/tree/master/0239-sliding-window-maximum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Shovan05/dsa-leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
