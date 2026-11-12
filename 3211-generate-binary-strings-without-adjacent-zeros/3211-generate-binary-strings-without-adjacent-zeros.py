@@ -1,6 +1,6 @@
 class Solution:
     def validStrings(self, n: int) -> List[str]:
-        numbers=["1"]*n
+        numbers=["0"]*n
         result=[]
         self.solve(0,True,numbers,result)
         return result
@@ -14,4 +14,4 @@ class Solution:
         if flag==True:
             numbers[index]="0"
             self.solve(index+1,False,numbers,result)
-            numbers[index]="1"
+            numbers[index]="0"
