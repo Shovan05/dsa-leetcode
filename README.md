@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shovan05/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shovan05/dsa-leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Shovan05/dsa-leetcode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Shovan05/dsa-leetcode/tree/master/0051-n-queens) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Shovan05/dsa-leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
