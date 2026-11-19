@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shovan05/dsa-leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shovan05/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/Shovan05/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Shovan05/dsa-leetcode/tree/master/0735-asteroid-collision) |
 ## String
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shovan05/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Shovan05/dsa-leetcode/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Shovan05/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Shovan05/dsa-leetcode/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Shovan05/dsa-leetcode/tree/master/0155-min-stack) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Shovan05/dsa-leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
