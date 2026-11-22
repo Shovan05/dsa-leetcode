@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shovan05/dsa-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/Shovan05/dsa-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Shovan05/dsa-leetcode/tree/master/0735-asteroid-collision) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shovan05/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shovan05/dsa-leetcode/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shovan05/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shovan05/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Shovan05/dsa-leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Shovan05/dsa-leetcode/tree/master/0278-first-bad-version) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shovan05/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shovan05/dsa-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Shovan05/dsa-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shovan05/dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shovan05/dsa-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Interactive
 |  |
 | ------- |
