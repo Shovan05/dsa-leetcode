@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shovan05/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Shovan05/dsa-leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Shovan05/dsa-leetcode/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/Shovan05/dsa-leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shovan05/dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shovan05/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/Shovan05/dsa-leetcode/tree/master/0216-combination-sum-iii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Shovan05/dsa-leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Shovan05/dsa-leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Shovan05/dsa-leetcode/tree/master/0268-missing-number) |
 ## Newton's Method
