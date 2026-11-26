@@ -1,19 +1,14 @@
 class Solution:
-    def subsets(self, nums):
-        res = []
-        n = len(nums)
-        temp = []
+    def subsets(self, nums: list[int]) -> list[list[int]]:
+        result=[]
+        self.solve(0,[],nums,result)
+        return result
 
-        def helper(idx):
-            if idx >= n:
-                res.append(temp[:])
-                return
-
-            temp.append(nums[idx])
-            helper(idx + 1)
-
-            temp.pop()
-            helper(idx + 1)
-
-        helper(0)
-        return res
+    def solve(self,index, subset,nums,result):
+        if index>=len(nums) :
+            result.append(subset.copy())
+            return
+        subset.append(nums[index])
+        self.solve(index+1,subset,nums,result)
+        subset.pop()
+        self.solve(index+1,subset,nums,result)
