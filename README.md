@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shovan05/dsa-leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Shovan05/dsa-leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Shovan05/dsa-leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Shovan05/dsa-leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shovan05/dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shovan05/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/Shovan05/dsa-leetcode/tree/master/0216-combination-sum-iii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shovan05/dsa-leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Shovan05/dsa-leetcode/tree/master/0268-missing-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Shovan05/dsa-leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Shovan05/dsa-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shovan05/dsa-leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Shovan05/dsa-leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Shovan05/dsa-leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/Shovan05/dsa-leetcode/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Shovan05/dsa-leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
