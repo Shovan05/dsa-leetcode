@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shovan05/dsa-leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shovan05/dsa-leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shovan05/dsa-leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Shovan05/dsa-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Shovan05/dsa-leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Shovan05/dsa-leetcode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shovan05/dsa-leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shovan05/dsa-leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shovan05/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shovan05/dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Shovan05/dsa-leetcode/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Shovan05/dsa-leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Shovan05/dsa-leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Shovan05/dsa-leetcode/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Shovan05/dsa-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Shovan05/dsa-leetcode/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Shovan05/dsa-leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
