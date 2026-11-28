@@ -16,6 +16,5 @@ class Solution:
                 maxi=max(maxi,right-left+1)
             right+=1
         return maxi
-        
 
         
